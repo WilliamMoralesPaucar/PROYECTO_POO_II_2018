@@ -12,6 +12,7 @@ package com.wmorales.vista;
 public class AplicacionMain {
     public static void main(String[] args) {
         System.out.println("Hola Reptilianos");
+        System.out.println("Bienvenido a POO 2");
     }
 
 }
